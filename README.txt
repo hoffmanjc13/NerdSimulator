@@ -1,0 +1,13 @@
+Nerd Simulator Bowl is a game based on Sciencebowl, a science-themed trivia game. The name is a play on National Sciencebowl, mostly so I 
+could use the NSB logo. The game reads you practice question sets from the DOE’s website and let you play against AI opponents. 
+Additionally, I added an optional bonus question type based on drawing, wherein players will be asked to draw a molecule and will be
+automatically graded on it.
+
+To run Nerd Simulator Bowl, run the file called NerdSimulatorBowl.py. The only required modules are cmu_112_graphics, which is included 
+with the files, and the python standard library, which you hopefully already have. If users want more rounds, additional sets can be 
+found here: https://science.osti.gov/wdts/nsb/Regional-Competitions/Resources/HS-Sample-Questions. It is worth noting that I do not
+guarantee that any set from after 2010 will work without modifiying pdfParser.py. That said, if you want to add the anyways, simply
+download the files into the questionSets directory and ensure that they have a unique round number (ex. renaming 2007's round 1 to be
+round17.pdf). Then you can simply access the new sets like normal.
+
+P.S. If you're wondering why I didn't use pyPDF2 instead of writing my own (terrible) parser, the answer is it was for a school project.

@@ -1,0 +1,46 @@
+{
+    "Questions": [
+        {
+            "Field": "CHEMISTRY",
+            "Type": "drawing",
+            "Text": "Draw the Lewis dot structure for formaldehyde (methanal) using pairs of dots to indicate electron pairs.",
+            "Answer": [2, 1, 2, 4, 1]
+        },
+        {
+            "Field": "CHEMISTRY",
+            "Type": "drawing",
+            "Text": "Draw the Lewis dot structure for ethene (ethylene) using pairs of dots to indicate electron pairs.",
+            "Answer": [4, 0, 0, 6, 2]
+        },
+        {
+            "Field": "CHEMISTRY",
+            "Type": "drawing",
+            "Text": "Draw the Lewis dot structure for water using pairs of dots to indicate electron pairs.",
+            "Answer": [2, 1, 2, 2, 0]
+        },
+        {
+            "Field": "CHEMISTRY",
+            "Type": "drawing",
+            "Text": "Draw the Lewis dot structure for carbon dioxide using pairs of dots to indicate electron pairs.",
+            "Answer": [0, 2, 4, 4, 1]
+        },
+        {
+            "Field": "CHEMISTRY",
+            "Type": "drawing",
+            "Text": "Draw the Lewis dot structure for acetylene (ethyne) using either lines or pairs of dots to indicate electron pairs.",
+            "Answer": [2, 0, 0, 5, 2]
+        },
+        {
+            "Field": "CHEMISTRY",
+            "Type": "drawing",
+            "Text": "Draw the Lewis dot structure for methanol (methyl alcohol) using either lines or pairs of dots to indicate electron pairs.",
+            "Answer": [4, 1, 2, 5, 1]
+        },
+        {
+            "Field": "CHEMISTRY",
+            "Type": "drawing",
+            "Text": "Draw the Lewis dot structure for carbon monoxide using either lines or pairs of dots to indicate electron pairs.",
+            "Answer": [0, 1, 2, 3, 1]
+        }
+    ]
+}
